@@ -5,7 +5,7 @@ title: Londyn Elmer
 
 ## About Me
 
-![alt text](IMG_4285.jpg)
+
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
